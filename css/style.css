@@ -1,11 +1,32 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+
 .navbar{
     background-color: #646f5e;
 }
 
-.quem-somos{
-    background-color: #636984;
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.aboutme{
+    background-color: #846464;
+    color: white;
 }
 
 .margin{
     padding-top: 50px;
+    padding-bottom: 50px;
 }
+
+.formulario{
+    background-color: #42493b;
+    color: white;
+}
+
+.color1{ color: #7f8d71 }
+.color2{ color: #bcc3b5 }
+.color3{ color: #42493b }
+.color4{ color: #846464 }
+.color5{ color: #b4bcac }
